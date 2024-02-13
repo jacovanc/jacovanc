@@ -1,8 +1,8 @@
 <a href="https://jacovan.co.uk">
-  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=jacovanc&hide=contribs&show_icons=true" />
+  <img height=187 align="center" src="https://github-readme-stats.vercel.app/api?username=jacovanc&hide=contribs&show_icons=true" />
 </a>
 <a href="https://jacovan.co.uk">
-  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacovanc&layout=compact&langs_count=8&card_width=320" />
+  <img height=187 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacovanc&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!--
