@@ -3,7 +3,7 @@ I'm a Web Developer that's interested in language learning and have found myself
 
 🌍 You can check out the language learning app I created, [Polyglot Pal](https://polyglotpal.co.uk)!
 
- 🇩🇪 Learning German coincidentally? Get [Daily Language Challenges](https://dailylanguagechallenges.com) that I post every day.
+ 🇩🇪 Learning German coincidentally? Get [Daily Language Challenges](https://dailylanguagechallenge.com) that I post every day.
 
 ## I'm working freelance right now!
 ⚡You can find out more about my services [here](https://jacovan.co.uk).
